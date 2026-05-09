@@ -29,7 +29,7 @@ body{
     left: 0;
     width: 200%;
     height: 200%;
-    background: transparent url('./asset/image/star.png');
+    background: transparent url('star.png');
     background-size: contain;
     animation: moveStars 100s linear infinite;
 }
